@@ -1,0 +1,15 @@
+h1,h2{
+    color: mediumvioletred;
+}
+p{
+    color: royalblue;
+}
+
+body{
+    background-color: aquamarine;
+}
+.caption-border{
+width: 500px;
+background: wheat;
+padding: 10px;
+}
